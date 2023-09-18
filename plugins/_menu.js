@@ -96,7 +96,7 @@ bot.addCommand(
 
 		let msg =
 			'```' +
-			`╭═══ LEVANTER ═══⊷
+			`╭═══ ᴀᴍᴍᴜ-ᴍᴅ ═══⊷
 ┃❃╭──────────────
 ┃❃│ Prefix : ${PREFIX}
 ┃❃│ User : ${message.pushName}
